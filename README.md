@@ -24,3 +24,6 @@ Calling knn_classifier.py for classification
 
 Now run "color_classification_image.py" to test the model
 
+we can find Training data set from https://github.com/ahmetozlu/color_recognition/tree/master/src/training_dataset. Place all colors in one folder and name it as training_dataset.
+
+

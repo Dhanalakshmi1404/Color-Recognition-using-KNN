@@ -2,6 +2,7 @@
 This project focuses on color classifying by K-Nearest Neighbors Machine Learning Classifier which is trained by R, G, B Color Histogram. It can classify White, Black, Red, Green, Blue, Orange, Yellow and Violet. If you want to classify more color or improve the accuracy you should work on the training data or consider about other color features such as Color Moments or Color Correlogram.Here i use color historam.
 
 Tools : OpenCV
+
 Concepts : OpenCV, Color histogram, EuclideanDistance, k nearest neighbours
 
 You should know 2 main phenomena to understand basic Object Detection/Recognition Systems of Computer Vision and Machine Learning

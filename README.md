@@ -19,6 +19,8 @@ K nearest neighbors is a simple algorithm that stores all available cases and cl
 
 
 Calling "feature_extraction.py" to create training data by feature extraction
+
 Calling knn_classifier.py for classification
+
 Now run "color_classification_image.py" to test the model
 
